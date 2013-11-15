@@ -1,0 +1,42 @@
+---
+:name: A Nother
+:phone: 111 111111
+:address: 'Somewhere in the world'
+:email: 'a.nother@world.com'
+:certifications:
+- :title: MCSE  
+  :institution: Microsoft
+  :date: 2006
+:education:
+- :title: A Level, English
+  :institution: Some College
+  :date: 1999
+:courses:
+- :title: Touch Typing
+  :institution: The Library
+  :date: 2006
+
+:experience:
+- :title: 
+  :company: Company
+  :start: October 2009
+  :end: Present
+  :blurb: 'I currently work for this guy'
+  :improvements: 
+  :responsibilities_preamble: 'My responsibilities include:'
+  :responsibilities:
+  - Washing the car
+  - Painting the fence
+  - Painting the house
+
+:interests:
+  :professional:
+  - :Code: http://github.com/
+  :personal:
+  - :Watching TV: http://bbc.co.uk
+  - :Music: 
+
+:technologies:
+- :Red Hat Enterprise Linux: http://redhat.com
+- :CentOS: 
+- :Ubuntu: http://www.ubuntu.com/server
