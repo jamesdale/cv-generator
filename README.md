@@ -12,6 +12,7 @@ bundle -v
 Clone repository and install bundle.
 
 git clone git@github.com:jamesdale/cv-generator.git
+
 cd cv-generator
 bundle install
 
